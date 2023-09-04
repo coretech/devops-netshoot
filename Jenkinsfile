@@ -1,1 +1,1 @@
-GlobalGitFlowPipelineV2()
+GlobalGitFlowPipelineV2([agentNodeLabel: 'k8s_default'])
