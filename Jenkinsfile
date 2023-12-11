@@ -1,1 +1,1 @@
-GlobalGitFlowPipelineV2([agentNodeLabel: 'k8s_default'])
+GlobalGitFlowPipelineV2([agentNodeLabel: 'team_devtools-k8s-small'])
